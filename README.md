@@ -1,7 +1,7 @@
 
 .Title
 
-plTPG
+Team Profile Generator 
 
 Installation
 
