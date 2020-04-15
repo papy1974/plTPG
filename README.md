@@ -44,9 +44,11 @@ To install inquirer, type npm install from your commande prompte or directory , 
 
 
 Usage
+
 The following link provide a quick project demo:https://drive.google.com/file/d/1hWM0D5F5MZC-z5gzd1T3gfCjclVDPB8n/view
 
 License
+
 This project is licensed under the MIT - Copyright (c) [2020] [PAPY LONTOMBA]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
@@ -64,6 +66,7 @@ Tests
 Run npm test for testing 
 
 contributing
+
 I give access to other developpers to modified our project if possible.  I can be reached by email: papylotomba@yahoo.fr
 
 Badges
