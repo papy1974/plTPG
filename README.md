@@ -24,6 +24,7 @@ Installation
 To run the project, user have to install inquirer in your commande prompt, and jest for testing. 
 
 Description
+
 The project is about writing code to use inquirer to gather information about the development team members,
 and to create objects for each team member (using the correct classes as blueprints!).
 After the user has input all employees desired, call the `htmltemp.js` function (required
