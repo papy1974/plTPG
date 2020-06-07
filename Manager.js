@@ -92,6 +92,6 @@ const generateCard = function (arr) {
 </div>
 </div>`
 }
-
+// export both generateHTML and generatedCard
 exports.generateHTML = generateHTML
 exports.generateCard = generateCard;
