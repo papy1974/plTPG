@@ -1,6 +1,8 @@
 
 .Title
 
+Languages and Tools
+
 Team Profile Generator 
 
 Installation
@@ -21,7 +23,17 @@ contributing
 
 Tests
 
+Title 
+
+Team Profile Generator
+
+
+Languages and Tools:
+
+ HTML, CSS and Javascript, git , Axios
+
 Installation
+
 To run the project, user have to install inquirer in your commande prompt, and jest for testing. 
 
 Description
